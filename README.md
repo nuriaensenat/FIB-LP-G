@@ -63,7 +63,7 @@ Instal·la Python i les eines `pip` i `make` en el teu sistema. Comandes a segui
 
     sudo apt update
     sudo apt install python3 python3-pip
-    sudo apt-get install make
+    sudo apt install make
 
 Ara ja pots utilitzar `pip` per instal·lar les dependències requerides per aquest projecte.
 
