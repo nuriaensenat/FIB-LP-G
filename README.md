@@ -38,7 +38,7 @@ En aquest projecte pots trobar els següents fitxers/directoris:
 
 ## Gestió d'errors
 El projecte compta amb gestió d'errors en els següents casos:
-- Intent d'accedir a un índex inexistent d'una llista (mitjançant un try-except).
+- Intent d'accedir a un índex inexistent d'una llista (mitjançant un `try-except`).
 - Intent de fer una operació de dos llistes que tenen diferent tamany.
 - Operacions amb operands nul·ls (none).
 - Ús de verbs/adverbs/operadors no reconeguts.
